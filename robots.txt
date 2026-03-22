@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.bogiihair.hu
+
+# Sitemaps
+Sitemap: https://www.bogiihair.hu/sitemap.xml
